@@ -1,0 +1,1 @@
+{"id":"a81a7806-1f88-4a03-9d17-8faaca356df1","space":38801,"runtime":"python3.9","name":"FastAPI","path":"bqjt4e","project":"c0ekc62j","account":"144798365827","region":"ap-southeast-1","deps":["sqlalchemy","fastapi","uvicorn","passlib","python-jose"],"envs":null,"public":true,"log_level":"off","cron":""}
